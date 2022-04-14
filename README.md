@@ -1,5 +1,7 @@
 # Bear-Claw-Feeding-Adapter
 
+See the following links for STLs for the Bear Claw Feeding Adapter
+
 1. [608zz_mk2_loose](608zz_mk2_loose.stl)  
 2. [cap_bottom](cap_bottom.stl)  
 3. [cap_top](cap_top.stl)  
