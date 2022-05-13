@@ -7,3 +7,6 @@ See the following links for STLs for the Bear Claw Feeding Adapter
 3. [cap_top](cap_top.stl)  
 4. [inner_tube_threaded](inner_tube_threaded.stl)
 5. [outer_shell_withbase](outer_shell_withbase.stl)
+  
+  
+[Courage Kenny Cummins MN Main Wiki Page](https://github.com/Courage-Kenny-Cummins-MN/Welcome/wiki)  
